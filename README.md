@@ -1,4 +1,4 @@
-# 1. Data Analyst Portfolio
+# 1. AWS Cost Analysis Dashboard
 SQL + Tableau project to analyze AWS cloud costs and provide dashboards for visibility and optimization.
 
 **Interactive Dashboard:**  
